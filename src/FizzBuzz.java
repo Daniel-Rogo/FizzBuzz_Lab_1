@@ -1,5 +1,5 @@
 /**
- * Solve the FizzBuzz challenge.
+ * Solve the FizzBuzz challenge. Random useless edit for that one step
  */
 class FizzBuzz {
 
